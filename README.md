@@ -1,0 +1,2 @@
+- JavaScript Syntax: Contidionals - Magic Eight Ball - codecademy.com
+- JavaScript training
